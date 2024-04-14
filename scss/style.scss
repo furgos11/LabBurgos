@@ -1,7 +1,5 @@
-div{
-    a{
-        text-decoration: none;
-        background-color: white
-    }
-}
+@import './base/reset';
+@import './layouts/headerpages';
+@import './layouts/index';
+
 

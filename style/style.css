@@ -1,6 +1,31 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img-logo {
+  width: 100px;
+  height: auto;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar-nav li {
+  margin-right: 20px; /* Espacio entre elementos de navegación */
+}
+
 div a {
   text-decoration: none;
   background-color: white;
+}
+
+.img-fluid {
+  width: 400px;
+  height: auto;
 }
 
 /*# sourceMappingURL=style.css.map */

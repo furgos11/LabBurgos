@@ -53,6 +53,9 @@ div a {
 }
 
 .h2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 25px;
   margin: 15px;
 }
